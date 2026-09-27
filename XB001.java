@@ -1,4 +1,3 @@
-package study01;
 
 public class XB001 {
      public static void main(String[] args){

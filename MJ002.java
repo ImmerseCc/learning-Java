@@ -1,4 +1,4 @@
-package study01;
+
 public class MJ002 {
     public static void main(String[] args){
         System.out.println("Hello World!");

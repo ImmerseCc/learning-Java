@@ -1,5 +1,3 @@
-package study01;
-
 public class MJ003 {
     public static void main(String[] args){
     int accountName = 123456;
